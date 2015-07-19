@@ -7,5 +7,4 @@ http://developer.wmata.com/IO-DOCS
 
 API Key: kfgpmgvfgacx98de9q3xazww
 
-Please upload repo or gist to Github. 
 
