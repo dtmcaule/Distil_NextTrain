@@ -1,19 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      mcauleyd
-#
-# Created:     18/07/2015
-# Copyright:   (c) mcauleyd 2015
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
-
-#def main():
-#    pass
-#if __name__ == '__main__':
-#    main()
-
 import httplib, urllib, base64, json
 
 headers = {
